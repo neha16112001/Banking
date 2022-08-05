@@ -1,0 +1,20 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="InvalidAgeException" />
+          <option value="InvalidBalanceException" />
+          <option value="invalidage" />
+          <option value="invalidbal" />
+          <option value="Rupees" />
+          <option value="Dollars" />
+          <option value="Euros" />
+          <option value="ProductDAO" />
+          <option value="Product" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
